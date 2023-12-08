@@ -1,0 +1,45 @@
+{
+  "id": "gnome-for-the-holidays",
+  "title": "Gnome for the Holidays",
+  "version": "1.0.0",
+  "url": "https://github.com/Apacolyps/Gravehurst",
+  "manifest": "https://github.com/Apacolyps/Gravehurst/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Apacolyps/Gravehurst/releases/download/1.0.0/gravehurst.zip",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Apacolyps",
+      "email": "shadowlabgames@gmail.com"
+    },
+    {
+      "name": "Zrave",
+      "email": "shadowlabgames@gmail.com"
+    }
+  ],
+  "packs": [
+    {
+      "name": "gnome-for-the-holidays",
+      "label": "Gnome for the Holidays",
+      "path": "packs/gnome-for-the-holidays",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "In the wondrous city of Waterdeep, we are greeted to a joyful gnome spreading the holiday spirit by gifting toys. In a heinous event, he is left wounded and his toys stolen. Be the heroes of the holidays, save this gleeful gnome and get his toys back to restore happiness to the city.\n\nJoin us on a Christmas journey where the players fight against snowmen and other holiday themed creatures.\n\nThis four-hour adventure is for characters between 3rd and 6th level. Since the damage and safety of characters in tiers 1 and 2 are vastly different, we have included scaling to the encounters.\n\nIn this adventure we have all new original content!\n\n• 2 NPCs\n\n• 1 monster\n\n• 3 maps\n\n• 11 magic items\n\n• 1 awesome Christmas adventure!"
+}
